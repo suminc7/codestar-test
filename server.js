@@ -4,7 +4,7 @@ var app = express();
 
 app.get('/', function(req, res) {
   res.send({
-    "Output" : "Hello World!!!!!!!!! docker 33"
+    "Output" : "Hello World!!!!!!!!! docker 3x3"
   });
 });
 
